@@ -196,7 +196,7 @@
 
 - [x] [ABC：不要停止编程（Always Be Coding）](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4)
 - [x] [白板编程（Whiteboarding）](https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1)
-- [ ] [揭秘技术招聘](https://www.youtube.com/watch?v=N233T0epWTs)
+- [x] [揭秘技术招聘](https://www.youtube.com/watch?v=N233T0epWTs)
 - [ ] 如何在科技四强企业中获得一份工作：
     - [ ] [“如何在科技四强企业中获得一份工作 —— Amazon、Facebook、Google 和 Microsoft”（视频）](https://www.youtube.com/watch?v=YJZCUhxNCv8)
 - [ ] 解密开发类面试第一集：
@@ -275,6 +275,12 @@
 如果你通读其中之一，你应该具备了开始解决编程问题所需的所有数据结构和算法知识。除非你需要复习，否则**你可以跳过此项目中的所有视频讲座**。
 
 [额外编程语言的精选资源](https://github.com/jwasham/coding-interview-university/blob/master/programming-language-resources.md)
+
+### 数据结构和算法
+
+- [ ] 大话数据结构
+    - [ ] 绪论
+    - [ ] 算法
 
 ### C++
 
