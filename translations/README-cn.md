@@ -286,6 +286,7 @@
 
 我没有读过这两本书，但是它们颇受好评，作者是 Sedgewick，他非常厉害。
 
+- [x] [Effective C++](https://www.amazon.com/Effective-Specific-Improve-Programs-Designs/dp/0321334876)
 - [ ] [Algorithms in C++, Parts 1-4: Fundamentals, Data Structure, Sorting, Searching](https://www.amazon.com/Algorithms-Parts-1-4-Fundamentals-Structure/dp/0201350882/)
 - [ ] [Algorithms in C++ Part 5: Graph Algorithms](https://www.amazon.com/Algorithms-Part-Graph-3rd-Pt-5/dp/0201361183/)
 - [ ] [Open Data Structures in C++](https://opendatastructures.org/ods-cpp.pdf)
